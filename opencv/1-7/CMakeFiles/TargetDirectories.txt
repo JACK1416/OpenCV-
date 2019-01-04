@@ -1,0 +1,11 @@
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/chapter7.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/chapter6.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/rebuild_cache.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/2.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/chapter5.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/integral_figure.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/number.dir
+/Users/apple/Documents/projects/opencv/1-7/CMakeFiles/sparse.dir
+/Users/apple/Documents/projects/opencv/1-7/src/CMakeFiles/rebuild_cache.dir
+/Users/apple/Documents/projects/opencv/1-7/src/CMakeFiles/edit_cache.dir
